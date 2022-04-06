@@ -23,6 +23,15 @@ body {
     text-align: left;
     margin-left: 250px;
     font-weight: bold;
+    background-color: rgba(148, 243, 211, 0.5);
+    padding: 10px;
+    border-radius: 25px;
+    margin-bottom: 20px;
+}
+
+.list-main:hover {
+    background-color: rgb(148, 243, 157);
+    transition: background-color 500ms linear;
 }
 
 .img-recipe {
